@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-created by Ashutosh Singh
+created by Ashutosh Singh.
